@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1521454707008" clover="3.2.0">
+  <project timestamp="1521454707008" name="All files">
+    <metrics statements="57" coveredstatements="39" conditionals="30" coveredconditionals="17" methods="17" coveredmethods="11" elements="104" coveredelements="67" complexity="0" loc="57" ncloc="57" packages="3" files="7" classes="7">
+      <package name="widget">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="config.js" path="/Users/jeppesigaard/widget/config.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="4" type="stmt"/>
+          <line num="2" count="4" type="stmt"/>
+        </file>
+      </package>
+      <package name="widget.app">
+        <metrics statements="54" coveredstatements="36" conditionals="30" coveredconditionals="17" methods="17" coveredmethods="11"/>
+        <file name="actions.js" path="/Users/jeppesigaard/widget/app/actions.js">
+          <metrics statements="10" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+          <line num="6" count="4" type="stmt"/>
+          <line num="9" count="4" type="stmt"/>
+          <line num="10" count="3" type="stmt"/>
+          <line num="14" count="4" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+        </file>
+        <file name="app.js" path="/Users/jeppesigaard/widget/app/app.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+        <file name="reducer.js" path="/Users/jeppesigaard/widget/app/reducer.js">
+          <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
+          <line num="3" count="3" type="cond" truecount="3" falsecount="0"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="17" count="3" type="stmt"/>
+        </file>
+        <file name="template.js" path="/Users/jeppesigaard/widget/app/template.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="1" count="1" type="stmt"/>
+        </file>
+        <file name="widget.js" path="/Users/jeppesigaard/widget/app/widget.js">
+          <metrics statements="34" coveredstatements="22" conditionals="24" coveredconditionals="11" methods="9" coveredmethods="7"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="22" count="1" type="stmt"/>
+          <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="25" count="1" type="stmt"/>
+          <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="31" count="1" type="stmt"/>
+          <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="34" count="1" type="stmt"/>
+          <line num="39" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="40" count="1" type="stmt"/>
+          <line num="41" count="1" type="cond" truecount="3" falsecount="1"/>
+          <line num="45" count="1" type="cond" truecount="2" falsecount="2"/>
+          <line num="46" count="1" type="stmt"/>
+          <line num="47" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="48" count="0" type="stmt"/>
+          <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="50" count="0" type="stmt"/>
+          <line num="52" count="0" type="stmt"/>
+          <line num="55" count="1" type="stmt"/>
+          <line num="60" count="0" type="stmt"/>
+          <line num="65" count="0" type="stmt"/>
+          <line num="66" count="0" type="stmt"/>
+          <line num="67" count="0" type="stmt"/>
+          <line num="68" count="0" type="stmt"/>
+          <line num="69" count="0" type="stmt"/>
+          <line num="70" count="0" type="stmt"/>
+          <line num="74" count="1" type="stmt"/>
+          <line num="75" count="1" type="stmt"/>
+          <line num="126" count="2" type="stmt"/>
+          <line num="133" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="widget.app.tests">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="setupTests.js" path="/Users/jeppesigaard/widget/app/tests/setupTests.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="5" count="5" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

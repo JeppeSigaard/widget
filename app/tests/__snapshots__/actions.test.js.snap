@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Action creator creates an action to set weather 1`] = `
+Object {
+  "data": undefined,
+  "status": "loading",
+  "type": "SET_WEATHER",
+}
+`;
+
+exports[`Action creator creates an action to set weather 2`] = `
+Object {
+  "data": undefined,
+  "status": "failed",
+  "type": "SET_WEATHER",
+}
+`;
+
+exports[`Action creator creates an action to set weather 3`] = `
+Object {
+  "data": Object {
+    "sum": "data",
+  },
+  "status": "success",
+  "type": "SET_WEATHER",
+}
+`;
+
+exports[`Action creator has action constant 1`] = `"SET_WEATHER"`;

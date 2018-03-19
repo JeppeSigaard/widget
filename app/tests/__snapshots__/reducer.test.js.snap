@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reducer does not update state on loading 1`] = `
+Object {
+  "sum": "data",
+}
+`;
+
+exports[`Reducer sets status code on error 1`] = `
+Object {
+  "cod": "404",
+}
+`;
+
+exports[`Reducer stores weather data 1`] = `
+Object {
+  "sum": "data",
+}
+`;
