@@ -1,4 +1,5 @@
-##Universally Rendered Weather Widget
+## Universally Rendered Weather Widget
+
 _A demo weather widget in express, react and redux_
 
 LIVE DEMO: example.org
@@ -26,3 +27,7 @@ The repository can be set up locally by following these steps
 You should be able to `npm test` the project directory. You can also `npm run test:coverage` to see a coverage chart.
 
 ---
+
+### Subsequent updates
+
+The master branch of this repo represents an initial build. Subsequent updates (fixes) will be pushed to the updates branch.
